@@ -1,0 +1,34 @@
+Requirement Analysis
+
+Project Concept: Block Diagram
+SES  [-- (RTC, CAM, MS)  RP  (DATA, MIST, LED) --]  (FA with MGP)
+
+Project Focus: Objectives
+
+Choose one main study goal.
+
+1.	Experimental / Environmental Science / Biology:
+Morning glory plant mist as attractant?
+
+2.	Experimental / Environmental Science / Biology:
+Simulated flash pattern as attractant?
+
+3.	Experimental / Environmental Science / Biology:
+Overall structure (morning glory plant, mist, flash pattern) effectiveness?
+
+4.	Experimental / Robotics / Engineering / Technology
+Accuracy of logging and monitoring system with firefly automatic detection, image capture, and soil moisture data.
+
+5.	Experimental / Robotics / Engineering / Technology
+Accuracy of logging and monitoring system with firefly automatic detection, image capture, and mist control.
+
+6.	Experimental / Robotics / Engineering / Technology
+Reliability of logging system with firefly time-lapse image capture and soil moisture data.
+
+7.	Experimental / Robotics / Engineering / Technology
+Reliability of logging system with firefly time-lapse image capture and mist control.
+
+8.	Engineering / Technology
+Efficiency of solar energy system for firefly attractant with morning glory plant.
+
+"I hereby declare that I have not used any Artificial Intelligence programs or tools to generate, structure, or substantially modify the content or core ideas herein."
